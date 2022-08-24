@@ -1,4 +1,4 @@
-# <center>Ji-seong Park</center>  
+# Ji-seong Park
 
 <div align="center">
 

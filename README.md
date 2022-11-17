@@ -9,15 +9,15 @@
 
 
 - ## Skills
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?style=plastic&logo=C&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?style=plastic&logo=C&logoColor=white"/>  
 
   <img alt="Java"  src="https://img.shields.io/badge/Java-007396?style=plastic&logo=OpenJDK&logoColor=white"/>  
 
   <img alt="Python" src="https://img.shields.io/badge/python-3776AB.svg?style=plastic&logo=Python&logoColor=white"/>
-  <img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white"/>
+  <img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white"/>  
   
   <img alt="Dart" src="https://img.shields.io/badge/dart-0175C2.svg?style=plastic&logo=dart&logoColor=white"/>
-  <img alt="flutter" src="https://img.shields.io/badge/flutter-02569B.svg?style=plastic&logo=flutter&logoColor=white"/> 
+  <img alt="flutter" src="https://img.shields.io/badge/flutter-02569B.svg?style=plastic&logo=flutter&logoColor=white"/>  
   
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/> 
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/> 

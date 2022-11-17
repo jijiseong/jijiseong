@@ -13,7 +13,7 @@
 
   <img alt="flutter" src="https://img.shields.io/badge/flutter-02569B.svg?style=plastic&logo=flutter&logoColor=white"/> <img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white"/>
   
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/> <img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white"/>
-      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/> <img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white"/>
-        <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/> <img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white"/>
-  <img alt="nodejs" src="https://img.shields.io/badge/NodeJs-339933?style=plastic&logo=Node.js&logoColor=white"/> <img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/> 
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/> 
+  <img alt="nodejs" src="https://img.shields.io/badge/NodeJs-339933?style=plastic&logo=Node.js&logoColor=white"/> 

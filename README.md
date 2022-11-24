@@ -8,8 +8,8 @@
 </div>
 
 
-- ## Skills
-  Languages
+## Skills
+  - Languages  
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=C&logoColor=white"/>
   <img alt="Java"  src="https://img.shields.io/badge/Java-007396?logo=OpenJDK&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-3776AB.svg?logo=Python&logoColor=white"/>
@@ -20,7 +20,7 @@
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white"/>
   <br>
   
-  Frameworks
+  - Frameworks  
   <img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C.svg?logo=pytorch&logoColor=white"/> 
   <img alt="nodejs" src="https://img.shields.io/badge/NodeJs-339933?logo=Node.js&logoColor=white"/> 
   <img alt="flutter" src="https://img.shields.io/badge/flutter-02569B.svg?logo=flutter&logoColor=white"/>

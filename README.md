@@ -1,11 +1,9 @@
 # Ji-seong Park
 
-<div align="center">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijiseong&show_icons=true&theme=radical)
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qkrwl5036)](https://solved.ac/qkrwl5036)
-  
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijiseong&show_icons=true&theme=radical)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qkrwl5036)](https://solved.ac/qkrwl5036)
+
 
 
 ## Skills

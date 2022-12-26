@@ -1,21 +1,21 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=jijiseongGithub&fontSize=90" />
 
-<div align=center>
+<div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijiseong&show_icons=true&theme=radical)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qkrwl5036)](https://solved.ac/qkrwl5036)
 
-</div >
+</div>
 <div>
-    <h1><strong> 🛠 Skills</strong></h1>
-    <h2>🔥 Studying 🔥</h2>
+    <h2><strong> 🛠 Skills</strong></h2>
+    <h3>🔥 Studying 🔥</h3>
     <div><!--react studying-->
         <img alt="React" src="https://img.shields.io/badge/React-gray?logo=React&logoColor=#61DAFB"/>
         <img alt="ReactNative" src="https://img.shields.io/badge/ReactNative-673AB8?logo=React&logoColor=white"/>
     </div>
     <br/>
-    <h2>✨ My Skills ✨</h2>
+    <h3>✨ My Skills ✨</h3>
     <div>
         <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"/>
         <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white"/>
@@ -33,7 +33,7 @@
         <img alt="flutter" src="https://img.shields.io/badge/flutter-02569B.svg?logo=flutter&logoColor=white"/>
     </div>
     <br />
-    <h1>📙 Blog</h1>
+    <h2>📙 Blog</h2>
     <a href="https://pintelligence.tistory.com/">
         <img alt="tistory" src="https://img.shields.io/badge/tistory-000000.svg?logo=tistory&logoColor=white"/>
     </a>

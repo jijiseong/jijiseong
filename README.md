@@ -1,10 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=jijiseong Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=jijiseongGithub&fontSize=90" />
+
+<div align=center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijiseong&show_icons=true&theme=radical)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qkrwl5036)](https://solved.ac/qkrwl5036)
 
-<div align=center>
+</div >
+<div>
     <h1><strong> 🛠 Skills</strong></h1>
     <h2>🔥 Studying 🔥</h2>
     <div><!--react studying-->
@@ -29,7 +32,7 @@
         <img alt="nodejs" src="https://img.shields.io/badge/NodeJs-339933?logo=Node.js&logoColor=white"/>
         <img alt="flutter" src="https://img.shields.io/badge/flutter-02569B.svg?logo=flutter&logoColor=white"/>
     </div>
-    <br /><br />
+    <br />
     <h1>📙 Blog</h1>
     <a href="https://pintelligence.tistory.com/">
         <img alt="tistory" src="https://img.shields.io/badge/tistory-000000.svg?logo=tistory&logoColor=white"/>
@@ -39,4 +42,5 @@
     </a>
 
     2022년 부터는 velog에 기록 중입니다!
+
 </div>

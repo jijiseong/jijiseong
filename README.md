@@ -32,7 +32,7 @@
     2021년 까지
     <a href="https://pintelligence.tistory.com/">
         <img alt="tistory" src="https://img.shields.io/badge/tistory-000000.svg?logo=tistory&logoColor=white"/>
-    </a>에 기록,<br/>
+    </a><br/>
     2022년 부터는
     <a href="https://velog.io/@jijiseong">
         <img alt="velog" src="https://img.shields.io/badge/velog-20C997.svg?logo=velog&logoColor=white"/>

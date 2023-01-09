@@ -21,15 +21,11 @@ icons: https://simpleicons.org/
     <h3>✨ My Skills ✨</h3>
     <div>
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>
-        <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=C&logoColor=white"/>
-        <img alt="Java"  src="https://img.shields.io/badge/Java-007396?logo=OpenJDK&logoColor=white"/>
         <img alt="Python" src="https://img.shields.io/badge/python-3776AB.svg?logo=Python&logoColor=white"/>
-        <img alt="Dart" src="https://img.shields.io/badge/dart-0175C2.svg?logo=dart&logoColor=white"/>
     </div>
     <div>
         <img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C.svg?logo=pytorch&logoColor=white"/>
         <img alt="nodejs" src="https://img.shields.io/badge/NodeJs-339933?logo=Node.js&logoColor=white"/>
-        <img alt="flutter" src="https://img.shields.io/badge/flutter-02569B.svg?logo=flutter&logoColor=white"/>
     </div>
     <br />
     <h2>📙 Blog</h2>

@@ -29,13 +29,13 @@ icons: https://simpleicons.org/
     </div>
     <br />
     <h2>📙 Blog</h2>
-    2021년 까지
+    ~ 2021
     <a href="https://pintelligence.tistory.com/">
         <img alt="tistory" src="https://img.shields.io/badge/tistory-000000.svg?logo=tistory&logoColor=white"/>
     </a><br/>
-    2022년 부터는
+    2022 ~
     <a href="https://velog.io/@jijiseong">
         <img alt="velog" src="https://img.shields.io/badge/velog-20C997.svg?logo=velog&logoColor=white"/>
-    </a>에 기록 중입니다!
+    </a
 
 </div>

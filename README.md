@@ -13,18 +13,17 @@ icons: https://simpleicons.org/
     <h2><strong> 🛠 Skills</strong></h2>
     <h3>🔥 Studying 🔥</h3>
     <div>
-        <img alt="React" src="https://img.shields.io/badge/React-gray?logo=React&logoColor=#61DAFB"/>
         <img alt="ReactNative" src="https://img.shields.io/badge/ReactNative-673AB8?logo=React&logoColor=#61DAFB"/>
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"/>
     </div>
     <br/>
     <h3>✨ My Skills ✨</h3>
     <div>
+        <img alt="React" src="https://img.shields.io/badge/React-gray?logo=React&logoColor=#61DAFB"/>
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"/>
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>
         <img alt="Python" src="https://img.shields.io/badge/python-3776AB.svg?logo=Python&logoColor=white"/>
     </div>
     <div>
-        <img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C.svg?logo=pytorch&logoColor=white"/>
         <img alt="nodejs" src="https://img.shields.io/badge/NodeJs-339933?logo=Node.js&logoColor=white"/>
     </div>
     <br />

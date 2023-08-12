@@ -4,11 +4,11 @@ icons: https://simpleicons.org/
 
 ![image](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&section=header&text=jijiseong+Github&fontSize=70)
 
-<div>
+<div style="display: flex; justify-content: space-between; align-items:center;">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijiseong&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=jijiseong&show_icons=true&theme=radical" />
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=qkrwl5036" />
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qkrwl5036)](https://solved.ac/qkrwl5036)
 
 </div>
 

@@ -18,5 +18,5 @@ icons: https://simpleicons.org/
 
 ## ⚡️ Experience
 
-- (2023. 07 ~ ) `Hyundai Softeer Bootcamp FE 2nd`
-- (2018. 03 ~ ) `Changwon National University`
+- (2023. 07 ~ 2023. 08) `Hyundai Softeer Bootcamp FE 2nd`
+- (2018. 03 ~ 2024. 02) `Changwon National University`

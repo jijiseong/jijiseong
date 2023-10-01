@@ -14,8 +14,7 @@ icons: https://simpleicons.org/
 
 ## 💻 BOJ
 <div style="display: flex; justify-content: space-between; align-items:center;">
-
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=qkrwl5036" />
-
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwl5036)](https://solved.ac/qkrwl5036/)
 
 </div>

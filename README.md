@@ -5,7 +5,9 @@ icons: https://simpleicons.org/
 
 ## ✨ My Skills
 
-![image](https://img.shields.io/badge/React-gray?logo=React&logoColor=#61DAFB) ![image](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white)
+<img src="https://github.com/jijiseong/jijiseong/assets/77661228/cbe3f3b1-fbd8-46b3-be9a-190903421f0e" width="auto" height="80"/>
+<img src="https://github.com/jijiseong/jijiseong/assets/77661228/32952d98-c475-4387-8cd8-cf2529ca6c4e" width="auto" height="80"/>
+<img src="https://github.com/jijiseong/jijiseong/assets/77661228/998729d0-4448-4156-a9fa-2e2d1a1e7c8a" width="auto" height="80"/>
 
 ## ⚡️ Experience
 

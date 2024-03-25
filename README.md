@@ -8,6 +8,9 @@ icons: https://simpleicons.org/
 <img src="https://github.com/jijiseong/jijiseong/assets/77661228/cbe3f3b1-fbd8-46b3-be9a-190903421f0e" width="auto" height="80" alt="TypeScript"/>
 <img src="https://github.com/jijiseong/jijiseong/assets/77661228/32952d98-c475-4387-8cd8-cf2529ca6c4e" width="auto" height="80" alt="React"/>
 <img src="https://github.com/jijiseong/jijiseong/assets/77661228/aeba0fa5-d9d4-4ac7-936a-97cb98e7e580" width="auto" height="80" alt="NextJs"/>
+<img src="https://github.com/jijiseong/jijiseong/assets/77661228/d11fb2c4-ccb6-46ea-8cf9-7b7ad81b2a05" width="auto" height="80" alt="Docker"/>
+<img src="https://github.com/jijiseong/jijiseong/assets/77661228/626615f3-d705-428f-b08f-87cc01abb73a" width="auto" height="80" alt="Docker"/>
+
 
 ## ⚡️ Experience
 - Hyundai Softeer Bootcamp FE 2nd [2023. 07 ~ 2023. 08]

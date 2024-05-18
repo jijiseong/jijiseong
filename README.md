@@ -21,3 +21,8 @@ icons: https://simpleicons.org/
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwl5036)](https://solved.ac/qkrwl5036/)
 
 </div>
+
+## OpenSource Contributing
+
+- [[PlateJs](https://platejs.org/)] [Fix: Command is invalid, when I install emoji-combobox in platejs.org ](https://github.com/udecode/plate/pull/3203)
+#

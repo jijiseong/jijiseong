@@ -22,7 +22,7 @@ icons: https://simpleicons.org/
 
 </div>
 
-## OpenSource Contributing
+## 🔥 OpenSource Contributing
 
 - [[PlateJs](https://platejs.org/)] [Fix: Command is invalid, when I install emoji-combobox in platejs.org ](https://github.com/udecode/plate/pull/3203)
 #

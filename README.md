@@ -11,6 +11,11 @@ icons: https://simpleicons.org/
 <img src="https://github.com/jijiseong/jijiseong/assets/77661228/d11fb2c4-ccb6-46ea-8cf9-7b7ad81b2a05" width="auto" height="80" alt="Docker"/>
 <img src="https://github.com/jijiseong/jijiseong/assets/77661228/626615f3-d705-428f-b08f-87cc01abb73a" width="auto" height="80" alt="Docker"/>
 
+## 🔥 Open Source Contributing
+
+### [PlateJs](https://platejs.org/)
+- Fix: Command is invalid, when I install emoji-combobox in platejs.org [[PR](https://github.com/udecode/plate/pull/3203)]
+- fix: zIndex of floating link [[PR](https://github.com/udecode/plate/pull/3204)] [[Release](https://github.com/udecode/plate/pull/3205)]
 
 ## ⚡️ Experience
 - Hyundai Softeer Bootcamp FE 2nd [2023. 07 ~ 2023. 08]
@@ -22,8 +27,4 @@ icons: https://simpleicons.org/
 
 </div>
 
-## 🔥 Open Source Contributing
 
-### [PlateJs](https://platejs.org/)
-- Fix: Command is invalid, when I install emoji-combobox in platejs.org [[PR](https://github.com/udecode/plate/pull/3203)]
-- fix: zIndex of floating link [[PR](https://github.com/udecode/plate/pull/3204)] [[Release](https://github.com/udecode/plate/pull/3205)]

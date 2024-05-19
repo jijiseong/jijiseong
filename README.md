@@ -24,5 +24,6 @@ icons: https://simpleicons.org/
 
 ## 🔥 Open Source Contributing
 
-- [PlateJs] [Fix: Command is invalid, when I install emoji-combobox in platejs.org ](https://github.com/udecode/plate/pull/3203)
-
+### [PlateJs](https://platejs.org/)
+- Fix: Command is invalid, when I install emoji-combobox in platejs.org [[PR](https://github.com/udecode/plate/pull/3203)]
+- fix: zIndex of floating link [[PR](https://github.com/udecode/plate/pull/3204)] [[Release](https://github.com/udecode/plate/pull/3205)]

@@ -16,7 +16,7 @@ icons: https://simpleicons.org/
 ### [PlateJs](https://platejs.org/)
 - Fix: Command is invalid, when I install emoji-combobox in platejs.org [[PR](https://github.com/udecode/plate/pull/3203)]
 - fix: zIndex of floating link [[PR](https://github.com/udecode/plate/pull/3204)] [[Release](https://github.com/udecode/plate/releases/tag/%40udecode%2Fplate-link%4033.0.5)]
-
+- SiteHeader, FixedToolbar 컴포넌트와 FloatingToolbar컴포넌트 사이에 zIndex 문제 해결 [PR](https://github.com/udecode/plate/pull/3214)
 ## ⚡️ Experience
 - Hyundai Softeer Bootcamp FE 2nd [2023. 07 ~ 2023. 08]
 

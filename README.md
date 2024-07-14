@@ -15,8 +15,10 @@ icons: https://simpleicons.org/
 
 ### [PlateJs](https://platejs.org/)
 - platejs.org 공식 문서에서 emoji-combobox를 설치할 때, 유효하지 않은 command 생성 문제 해결 [[PR](https://github.com/udecode/plate/pull/3203)]
-- floating link 기능  zIndex 충돌 문제 해결 [[PR](https://github.com/udecode/plate/pull/3204)] [[Release](https://github.com/udecode/plate/releases/tag/%40udecode%2Fplate-link%4033.0.5)]
-- SiteHeader, FixedToolbar 컴포넌트와 FloatingToolbar컴포넌트 사이에 zIndex 문제 해결 [[PR]](https://github.com/udecode/plate/pull/3214)
+- floating link 기능  zIndex 충돌 문제 해결 [[PR](https://github.com/udecode/plate/pull/3204)]
+- SiteHeader, FixedToolbar 컴포넌트와 FloatingToolbar컴포넌트 사이에 zIndex 문제 해결 [[PR](https://github.com/udecode/plate/pull/3214)]
+### [PrimeReact](https://primereact.org/)
+- Menu Seperator 컴포넌트의 className props가 무시되는 버그 해결 [[PR](https://github.com/primefaces/primereact/pull/6884)]
 ## ⚡️ Experience
 - Hyundai Softeer Bootcamp FE 2nd [2023. 07 ~ 2023. 08]
 

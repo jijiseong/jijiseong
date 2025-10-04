@@ -14,7 +14,7 @@
 
 | 오픈소스 | 내용 | 상태 | 날짜 |
 | --- | --- | --- | --- |
-|Tanstk Router | remountDeps api의 type 에러 수정 [PR](https://github.com/TanStack/router/pull/5362#issue-3483463607) | **`open`** | 25. 10. 04|
+|Tanstk Router | remountDeps 기능 type 추론 에러 수정 [PR](https://github.com/TanStack/router/pull/5362#issue-3483463607) | **`open`** | 25. 10. 04|
 | [Stackflow](https://github.com/daangn/stackflow) | example 코드 import error 수정 (Docs 수정) [(PR)](https://github.com/daangn/stackflow/pull/586) | **`merged`** | 25. 03. 24 |
 | [TanstackQuery](https://tanstack.com/query) | 404 페이지 redirect 링크 수정 (Docs 수정) [(PR)](https://github.com/TanStack/query/pull/8762) | **`merged`** | 25. 03. 07 |
 | [NextUI](https://nextui.org/) (HeroUI) | DropDown 컴포넌트의 위치가 비정상적으로 렌더링 되는 버그 해결 ([PR](https://github.com/nextui-org/nextui/pull/4471)) | **`closed`**  | 24. 12. 31 |

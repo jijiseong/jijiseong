@@ -40,7 +40,7 @@
 - [stackflow] Updated documentation examples to fix an import error [link](https://github.com/daangn/stackflow/pull/586) 
 - [@tanstack/query] Fixed incorrect redirect link in the 404 page documentation [link](https://github.com/TanStack/query/pull/8762)
 - [prime-react] Fixed a bug where the `className` prop was ignored in the MenuSeparator component [link](https://github.com/primefaces/primereact/pull/6884)
-- [plate-js] Fixed z-index conflicts between the SiteHeader, FixedToolbar, and FloatingToolbar components [link](https://github.com/udecode/plate/pull/32)
+- [plate-js] Fixed z-index conflicts between the SiteHeader, FixedToolbar, and FloatingToolbar components [link](https://github.com/udecode/plate/pull/3214)
 - [plate-js] Fixed a z-index issue where the Floating Link feature was rendered below the Table component [link](https://github.com/udecode/plate/pull/3204)
 - [plate-js] Fixed an issue in the official documentation where installing `emoji-combobox` generated an invalid command [link](https://github.com/udecode/plate/pull/3203) 
 

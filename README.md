@@ -34,17 +34,16 @@
 ## Open source
 
 ### PR
-| name | detail | status | date |
-| --- | --- | --- | --- |
-|[Tanstk Router](https://github.com/TanStack/router) | Fix typing of search in remountDeps  [PR](https://github.com/TanStack/router/pull/5362#issue-3483463607) | **`merged`** | 25. 10. 04|
-| [Stackflow](https://github.com/daangn/stackflow) | Update docs to fix import error example [(PR)](https://github.com/daangn/stackflow/pull/586) | **`merged`** | 25. 03. 24 |
-| [TanstackQuery](https://tanstack.com/query) | Update docs to fix 404 redirect link [(PR)](https://github.com/TanStack/query/pull/8762) | **`merged`** | 25. 03. 07 |
-| [NextUI](https://nextui.org/) (HeroUI) | Fix incorrect position of Dropdown ([PR](https://github.com/nextui-org/nextui/pull/4471)) | **`closed`**  | 24. 12. 31 |
-| [PrimeReact](https://primereact.org/) | Fix ignored classname in MenuSeperator ([PR](https://github.com/primefaces/primereact/pull/6884)) | **`merged`** | 24. 07. 14 |
-| [PlateJs](https://platejs.org/) | Fix zIndex issue among SiteHeader, FixedToolbar and FloatingToolbar ([PR](https://github.com/udecode/plate/pull/3214))  | **`merged`** | 24. 05. 24 |
-|  | Fix zIndex issue of floating link ([PR](https://github.com/udecode/plate/pull/3204))  | **`merged`** | 24. 05. 19 |
-|  | Fix command generation issue, when install emoji-combobox in Docs([PR](https://github.com/udecode/plate/pull/3203))  | **`merged`** | 24. 05. 18 |
+
+- [base-ui] Improved keyboard accessibility for the ToggleGroup component [link](https://github.com/mui/base-ui/pull/3971)
+- [@tanstack/router] Fixed a type inference bug in the `remountDeps` feature [link](https://github.com/TanStack/router/pull/5362)
+- [stackflow] Updated documentation examples to fix an import error [link](https://github.com/daangn/stackflow/pull/586) 
+- [@tanstack/query] Fixed incorrect redirect link in the 404 page documentation [link](https://github.com/TanStack/query/pull/8762)
+- [prime-react] Fixed a bug where the `className` prop was ignored in the MenuSeparator component [link](https://github.com/primefaces/primereact/pull/6884)
+- [plate-js] Fixed z-index conflicts between the SiteHeader, FixedToolbar, and FloatingToolbar components [link](https://github.com/udecode/plate/pull/32)
+- [plate-js] Fixed a z-index issue where the Floating Link feature was rendered below the Table component [link](https://github.com/udecode/plate/pull/3204)
+- [plate-js] Fixed an issue in the official documentation where installing `emoji-combobox` generated an invalid command [link](https://github.com/udecode/plate/pull/3203) 
 
 
 ### Issue
-- [expo-video] Reported a critical bug: Video fails to update after the first change. [Issue #40512](https://github.com/expo/expo/issues/40512)
+- [expo-video] Reported a critical bug: Video fails to update after the first change. [link](https://github.com/expo/expo/issues/40512)

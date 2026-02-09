@@ -34,7 +34,7 @@
 ## Open source
 
 ### PR
-
+- [base-ui] Distinguish the event detail reason between trigger and input [link](https://github.com/mui/base-ui/pull/4015)
 - [base-ui] Improved keyboard accessibility for the ToggleGroup component [link](https://github.com/mui/base-ui/pull/3971)
 - [@tanstack/router] Fixed a type inference bug in the `remountDeps` feature [link](https://github.com/TanStack/router/pull/5362)
 - [stackflow] Updated documentation examples to fix an import error [link](https://github.com/daangn/stackflow/pull/586) 

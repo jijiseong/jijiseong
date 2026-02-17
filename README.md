@@ -3,9 +3,6 @@
 <img src="https://github.com/jijiseong/jijiseong/assets/77661228/32952d98-c475-4387-8cd8-cf2529ca6c4e" width="auto" height="40" alt="React"/>
 <img width="auto" height="40" alt="image" src="https://github.com/user-attachments/assets/66bfcb3c-cef3-4082-98cb-58a7d56305eb" />
 
-I like code that makes mistakes hard to make.
-
-
 ## Open source
 
 ### PR
